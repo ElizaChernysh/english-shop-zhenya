@@ -1,0 +1,11 @@
+.header-navigation {
+    background-color: $primary3;
+    &__link {
+        font-size: 1.4rem;
+        line-height: 1.6rem;
+        color: $info-text-color;
+    }
+    &__wrapper {
+        padding: 17px 0px;
+    }
+}

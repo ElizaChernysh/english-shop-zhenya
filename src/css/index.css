@@ -2,3 +2,23 @@ html {
   font-size: 10px;
   line-height: 10px;
   color: #080708; }
+
+h1,
+h2,
+h3 {
+  margin: 0px; }
+
+a {
+  text-decoration: none;
+  color: #080708; }
+  a:hover {
+    text-decoration: underline; }
+
+.header-navigation {
+  background: #f2e9f0; }
+  .header-navigation__link {
+    font-size: 1.4rem;
+    line-height: 1.6rem;
+    color: #2e2e2e; }
+  .header-navigation__wrapper {
+    padding: 17px 0px; }
